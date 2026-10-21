@@ -1,1 +1,1 @@
-# Acompa-amiento-en-Solicitud-de-Cr-dito-a-Micronegocios-Kennedy-
+# Acompañamiento_en_Solicitud_de_Credito_a_Micronegocios_Kennedy_
