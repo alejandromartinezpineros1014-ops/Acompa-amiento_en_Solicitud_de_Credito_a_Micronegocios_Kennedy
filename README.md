@@ -43,7 +43,7 @@ Cada actividad operativa de la matriz (ACT01 a ACT07) es un Issue del repositori
 
 ## Seguimiento del proyecto
 
-[Abrir Project](URL_PROJECT)
+[Abrir Project](https://github.com/users/alejandromartinezpineros1014-ops/projects/4)
 
 El tablero de GitHub Projects muestra el estado de cada Issue (*Todo*, *In Progress*, *Done*).
 
