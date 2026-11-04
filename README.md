@@ -58,14 +58,15 @@ El tablero de GitHub Projects muestra el estado de cada Issue (*Todo*, *In Progr
 - [F2 · Banco W, Microcrédito](https://www.bancow.com.co/productos-servicios/creditos/micro-credito)
 - [F3 · Banco Agrario, Economía popular y comunitaria](https://www.bancoagrario.gov.co/economia-popular-comunitaria)
 - [F4 · SDDE, Buena Paga 2026](https://bogota.gov.co/mi-ciudad/desarrollo-economico/apoyos-financieros-comerciantes-y-negocios-buena-paga-bogota-2026)
-- [F5 · Bancóldex, Circular 003 de 2026, línea A PULSO](02_Evidencias/F5_Bancoldex_Circular_003_2026_A_PULSO.pdf)
-- [F6 · Superintendencia Financiera, Circular Básica Financiera (C.E. 004 de 2026)](02_Evidencias/F6_Circular_Basica_Financiera_CE_004_2026.zip)
-- [F7 · Castaño Gutiérrez (2021), El financiamiento a la microempresa, Superfinanciera](02_Evidencias/F7_Superfinanciera_2021_Asomicrofinanzas.pdf)
+- F5 · Bancóldex, Circular 003 de 2026, línea A PULSO (19 feb. 2026)
+- F6 · Superintendencia Financiera, Circular Básica Financiera, Parte 1, Capítulo 1 (C.E. 004 de 2026)
+- F7 · Castaño Gutiérrez (2021), El financiamiento a la microempresa: pilar de crecimiento y reactivación, Superintendencia Financiera (Congreso Asomicrofinanzas)
 
 **Evidencia diagnóstica (citada en la ficha)**
 - DANE, EMICRON 2024; SDDE y Observatorio de Desarrollo Económico de Bogotá (2024, 2025)
 - Cámara de Comercio de Bogotá, empresas activas por localidad (2024); Secretaría de Integración Social, diagnóstico Kennedy (2023)
-- Banca de las Oportunidades, Informe EMICRON 2022; Banco de la República, Borrador de Economía 1302 (2025)
+- [Banca de las Oportunidades (2023), Principales resultados de la Encuesta de Micronegocios 2022](02_Evidencias/Banca_Oportunidades_Informe_EMICRON_2022.pdf)
+- [Tobar-Cruz y Ruiz-Martínez (2025), Banco de la República, Borrador de Economía 1302](02_Evidencias/BanRep_Borrador_1302_2025.pdf)
 - Martínez y Puentes (2018); Bruhn, Karlan y Schoar (2018)
 
 ## Herramientas complementarias
