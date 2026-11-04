@@ -3,6 +3,7 @@
 **Equipo:** UCC002
 **Integrantes:** Diego Alejandro Martínez Piñeros
 
+> Piloto de acompañamiento a micronegocios de la localidad de Kennedy (Bogotá) para reunir los soportes exigidos en la solicitud de crédito formal.
 > Formulación de Proyectos · Facultad de Ciencias Económicas y Administrativas · Universidad Católica de Colombia
 
 ## Problema
